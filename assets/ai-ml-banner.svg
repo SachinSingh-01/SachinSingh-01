@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#080d17"/>
+    <stop offset=".55" stop-color="#0d1524"/>
+    <stop offset="1" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset="1" stop-color="#8b5cf6"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+<g opacity=".18" stroke="#64748b" stroke-width="1">
+<path d="M40 0V320"/><path d="M135 0V320"/><path d="M230 0V320"/><path d="M325 0V320"/><path d="M420 0V320"/><path d="M515 0V320"/><path d="M610 0V320"/><path d="M705 0V320"/><path d="M800 0V320"/><path d="M895 0V320"/><path d="M990 0V320"/><path d="M1085 0V320"/>
+<path d="M0 45H1200"/><path d="M0 100H1200"/><path d="M0 155H1200"/><path d="M0 210H1200"/><path d="M0 265H1200"/>
+</g>
+<g stroke="url(#line)" stroke-width="2.5" fill="none" opacity=".8" filter="url(#glow)">
+<path d="M720 82 L820 135 L920 78 L1020 145 L1130 88"/>
+<path d="M735 215 L835 165 L930 225 L1035 175 L1150 220"/>
+<path d="M820 135 L835 165"/>
+<path d="M920 78 L930 225"/>
+<path d="M1020 145 L1035 175"/>
+</g>
+<g fill="#38bdf8" filter="url(#glow)">
+<circle cx="720" cy="82" r="6"/><circle cx="820" cy="135" r="6"/><circle cx="920" cy="78" r="6"/>
+<circle cx="1020" cy="145" r="6"/><circle cx="1130" cy="88" r="6"/>
+<circle cx="735" cy="215" r="6"/><circle cx="835" cy="165" r="6"/><circle cx="930" cy="225" r="6"/>
+<circle cx="1035" cy="175" r="6"/><circle cx="1150" cy="220" r="6"/>
+</g>
+<g fill="#94a3b8" opacity=".55" font-family="monospace" font-size="14">
+<text x="760" y="58">model.fit(X_train, y_train)</text>
+<text x="905" y="270">data → model → evaluation</text>
+</g>
+<g fill="#f8fafc" font-family="Arial,Helvetica,sans-serif">
+<text x="72" y="118" font-size="52" font-weight="700">AI / ML</text>
+<text x="72" y="172" font-size="34" font-weight="600" fill="#cbd5e1">Python • Data • Machine Learning</text>
+<text x="72" y="216" font-size="19" fill="#94a3b8">Building practical projects, one model at a time.</text>
+</g>
+<rect x="72" y="242" width="300" height="3" rx="2" fill="url(#line)"/>
+<circle cx="72" cy="243.5" r="5" fill="#38bdf8"/>
+</svg>
