@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+<rect width="900" height="150" rx="18" fill="#0d1117"/>
+<text x="450" y="58" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#f0f6fc">
+<animate attributeName="opacity" values="1;1;1" dur="1s" repeatCount="indefinite"/>
+<tspan>👋 Hi, I'm Sachin</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff">
+<animate attributeName="opacity" values="1;0;0;1" dur="3s" repeatCount="indefinite"/>
+<tspan>नमस्ते, मैं सचिन हूँ</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="3s" repeatCount="indefinite"/>
+<tspan>নমস্কাৰ, মই সচিন</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="6s" repeatCount="indefinite"/>
+<tspan>வணக்கம், நான் சச்சின்</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="9s" repeatCount="indefinite"/>
+<tspan>నమస్తే, నేను సచిన్</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="12s" repeatCount="indefinite"/>
+<tspan>ನಮಸ್ಕಾರ, ನಾನು ಸಚಿನ್</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="15s" repeatCount="indefinite"/>
+<tspan>നമസ്കാരം, ഞാൻ സച്ചിൻ</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="18s" repeatCount="indefinite"/>
+<tspan>નમસ્તે, હું સચિન છું</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="21s" repeatCount="indefinite"/>
+<tspan>你好，我是 Sachin</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="24s" repeatCount="indefinite"/>
+<tspan>こんにちは、サチンです</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="27s" repeatCount="indefinite"/>
+<tspan>안녕하세요, 저는 Sachin입니다</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="30s" repeatCount="indefinite"/>
+<tspan>Bonjour, je suis Sachin</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="33s" repeatCount="indefinite"/>
+<tspan>Hola, soy Sachin</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="36s" repeatCount="indefinite"/>
+<tspan>Hallo, ich bin Sachin</tspan>
+</text>
+<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
+<animate attributeName="opacity" values="0;1;0" dur="3s" begin="39s" repeatCount="indefinite"/>
+<tspan>Ciao, sono Sachin</tspan>
+</text>
+<text x="450" y="128" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#8b949e">Python • Data • Machine Learning • AI</text>
+</svg>
