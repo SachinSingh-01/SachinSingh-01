@@ -1,28 +1,20 @@
 <div align="center">
 
-# AI/ML Developer
+<img src="./assets/ai-ml-banner.svg" alt="AI ML Developer — Python, Data and Machine Learning" width="100%"/>
 
-### Python • Data Analysis • Machine Learning • AI
+<br/>
 
-<img src="./assets/multilingual-greeting.svg" alt="Multilingual animated greeting" width="850"/>
+<img src="./assets/multilingual-greeting.svg" alt="Multilingual greeting" width="820"/>
 
 </div>
 
----
-
-## 👋 About Me
+## About Me
 
 I'm **Sachin Kumar**, a Python-focused developer building practical skills in **data analysis, machine learning, and AI**.
 
 I enjoy turning datasets and ideas into working projects — from exploratory data analysis and visualization to machine-learning models and AI-powered applications.
 
-My current focus is:
-
-**Python → Data → Machine Learning → AI**
-
-I’m continuously learning, experimenting, and improving through hands-on projects.
-
-### 🔗 Connect
+**Current focus:** Python → Data → Machine Learning → AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkumar-ai)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sachinkumarr01)
@@ -31,69 +23,46 @@ I’m continuously learning, experimenting, and improving through hands-on proje
 
 ---
 
-## 🧰 Technical Stack
+## Technical Stack
 
-### Programming
+**Programming**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### Data & Visualization
+**Data & Visualization**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-### Machine Learning & AI
+**Machine Learning & AI**
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-### Tools
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🤖 TutorChain — Multi-Agent AI Tutor
-A capstone AI tutor prototype built around a multi-agent workflow, personalized learning, assessment, memory, and mastery tracking.
-
-**Focus:** AI Agents • LLMs • Python • Personalized Learning
-
-[View Repository →](https://github.com/SachinSingh-01/tutorchain-capstone)
-
-### 📊 Global Superstore EDA
-Exploratory data analysis of the Global Superstore dataset using Python, Pandas, Matplotlib, and Seaborn to investigate sales, profit, customers, products, and regional patterns.
-
-**Focus:** EDA • Pandas • Data Visualization • Business Analysis
-
-[View Repository →](https://github.com/SachinSingh-01/global-superstore-eda)
-
-### 🎬 Netflix Business Insights
-Exploratory analysis of Netflix titles covering content types, genres, countries, directors, ratings, and release trends.
-
-**Focus:** Python • Pandas • Data Cleaning • EDA • Visualization
-
-[View Repository →](https://github.com/SachinSingh-01/netflix-business-insights)
-
-### ❤️ Heart Disease Prediction
-A Streamlit machine-learning application using a trained KNN classifier to generate heart-disease risk predictions from user-provided features.
-
-**Focus:** Machine Learning • Scikit-learn • KNN • Streamlit
-
-[View Repository →](https://github.com/SachinSingh-01/Heart-stroke-prediction)
-
-### 🔐 Emotion Cipher
-A Python prototype combining keyword-based emotion detection with Fernet encryption and decryption.
-
-**Focus:** Python • Rule-based NLP • Cryptography
-
-[View Repository →](https://github.com/SachinSingh-01/emotion-cipher-project)
+| Project | What it demonstrates |
+|---|---|
+| [**TutorChain**](https://github.com/SachinSingh-01/tutorchain-capstone) | Multi-agent AI tutor prototype, LLM integration, personalized learning, assessment and memory |
+| [**Global Superstore EDA**](https://github.com/SachinSingh-01/global-superstore-eda) | EDA, Pandas, visualization and business-data analysis |
+| [**Netflix Business Insights**](https://github.com/SachinSingh-01/netflix-business-insights) | Data cleaning, EDA, Pandas and visualization |
+| [**Heart Disease Prediction**](https://github.com/SachinSingh-01/Heart-stroke-prediction) | KNN classification, Scikit-learn, preprocessing and Streamlit |
+| [**Emotion Cipher**](https://github.com/SachinSingh-01/emotion-cipher-project) | Python, keyword-based emotion detection and Fernet encryption |
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - Machine Learning with Scikit-learn
 - Model evaluation
@@ -105,7 +74,7 @@ A Python prototype combining keyword-based emotion detection with Fernet encrypt
 
 ---
 
-## ⌨️ Coding Activity
+## Coding Activity
 
 <div align="center">
 
@@ -115,16 +84,10 @@ A Python prototype combining keyword-based emotion detection with Fernet encrypt
 
 ---
 
-## 🎯 What I'm Building Toward
-
-I’m focused on developing the practical skills needed to build **useful machine-learning and AI systems** — with an emphasis on understanding the data, evaluating models properly, and turning concepts into working projects.
-
----
-
 <div align="center">
 
-### Keep learning. Keep building. Keep improving.
+### Learning by building.
 
-*Python → Data → ML → AI*
+**Python → Data → ML → AI**
 
 </div>
