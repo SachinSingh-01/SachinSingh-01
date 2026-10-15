@@ -1,64 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-labelledby="title desc">
+<title id="title">Sachin's multilingual greeting</title>
+<desc id="desc">A greeting that cycles through fourteen languages, with English name and AI and data interests.</desc>
 <rect width="900" height="150" rx="18" fill="#0d1117"/>
-<text x="450" y="58" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="34" font-weight="700" fill="#f0f6fc">
-<animate attributeName="opacity" values="1;1;1" dur="1s" repeatCount="indefinite"/>
-<tspan>👋 Hi, I'm Sachin</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff">
-<animate attributeName="opacity" values="1;0;0;1" dur="3s" repeatCount="indefinite"/>
-<tspan>नमस्ते, मैं सचिन हूँ</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="3s" repeatCount="indefinite"/>
-<tspan>নমস্কাৰ, মই সচিন</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="6s" repeatCount="indefinite"/>
-<tspan>வணக்கம், நான் சச்சின்</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="9s" repeatCount="indefinite"/>
-<tspan>నమస్తే, నేను సచిన్</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="12s" repeatCount="indefinite"/>
-<tspan>ನಮಸ್ಕಾರ, ನಾನು ಸಚಿನ್</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="15s" repeatCount="indefinite"/>
-<tspan>നമസ്കാരം, ഞാൻ സച്ചിൻ</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="18s" repeatCount="indefinite"/>
-<tspan>નમસ્તે, હું સચિન છું</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="21s" repeatCount="indefinite"/>
-<tspan>你好，我是 Sachin</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="24s" repeatCount="indefinite"/>
-<tspan>こんにちは、サチンです</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="27s" repeatCount="indefinite"/>
-<tspan>안녕하세요, 저는 Sachin입니다</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="30s" repeatCount="indefinite"/>
-<tspan>Bonjour, je suis Sachin</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="33s" repeatCount="indefinite"/>
-<tspan>Hola, soy Sachin</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="36s" repeatCount="indefinite"/>
-<tspan>Hallo, ich bin Sachin</tspan>
-</text>
-<text x="450" y="100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24" fill="#58a6ff" opacity="0">
-<animate attributeName="opacity" values="0;1;0" dur="3s" begin="39s" repeatCount="indefinite"/>
-<tspan>Ciao, sono Sachin</tspan>
-</text>
-<text x="450" y="128" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#8b949e">Python • Data • Machine Learning • AI</text>
+<text x="450" y="42" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#f0f6fc">👋 Hi, I'm Sachin</text>
+<g font-family="Arial,Helvetica,sans-serif" font-size="23" text-anchor="middle" fill="#58a6ff">
+<text x="450" y="83">नमस्ते, मैं सचिन हूँ<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.065;0.07;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">নমস্কাৰ, মই সচিন<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.071;0.075;0.136;0.14;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">வணக்கம், நான் சச்சின்<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.142;0.146;0.207;0.211;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">నమస్తే, నేను సచిన్<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.213;0.217;0.279;0.283;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">ನಮಸ್ಕಾರ, ನಾನು ಸಚಿನ್<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.285;0.289;0.35;0.354;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">നമസ്കാരം, ഞാൻ സച്ചിൻ<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.356;0.36;0.421;0.425;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">નમસ્તે, હું સચિન છું<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.428;0.432;0.493;0.497;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">你好，我是 Sachin<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.504;0.564;0.568;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">こんにちは、サチンです<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.571;0.575;0.636;0.64;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">안녕하세요, 저는 Sachin입니다<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.643;0.647;0.707;0.711;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">Bonjour, je suis Sachin<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.714;0.718;0.779;0.783;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">Hola, soy Sachin<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.786;0.79;0.85;0.854;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">Hallo, ich bin Sachin<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.857;0.861;0.921;0.925;1" dur="42s" repeatCount="indefinite"/></text>
+<text x="450" y="83" opacity="0">Ciao, sono Sachin<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.929;0.933;0.993;0.997;1" dur="42s" repeatCount="indefinite"/></text>
+</g>
+<text x="450" y="122" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="14" fill="#8b949e">Python • Data • Machine Learning • AI</text>
 </svg>
