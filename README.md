@@ -19,7 +19,7 @@ I enjoy turning datasets and ideas into working projects — from exploratory da
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachinkumar-ai)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/sachinkumarr01)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@CodexSachin_01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sachinsingh19012@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sachin.kumar.tech01%40gmail.com&su=Internship%20Opportunity%20or%20Collaboration&body=Hello%20Sachin%2C%0A%0AI%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20connect%20with%20you%20regarding%20an%20internship%20opportunity%20or%20a%20potential%20collaboration.%20I%20would%20love%20to%20discuss%20your%20work%20and%20explore%20how%20we%20might%20work%20together.%0A%0ABest%20regards%2C%0A[Your%20Name])
 
 ---
 
